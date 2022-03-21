@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end"
         android:layout_marginTop="8dp"
-        android:text="@string/action_greet" />
+        android:text="compartit" />
 
     <TextView
         android:id="@+id/greeting_text_view"
